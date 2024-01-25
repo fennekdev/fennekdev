@@ -3,9 +3,6 @@ Hi, I’m
 ```yaml
 Fennek
 ```
-![Snake animation](https://github.com/fennekdev/fennekdev/blob/output/github-contribution-grid-snake.svg)
-
-
 Discord: .fennekku
 
 
