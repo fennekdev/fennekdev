@@ -9,7 +9,12 @@ Profile:
                 "Python","Java",
                 "Tech","Visual physics simulations"
               ]
-  currently_working_on
+  currently_working_on:
+              [
+                "- Visual physics Sandbox with coustome collision detection",
+                "- Api intigrations into modular "multiserver" Discord bots"
+
+              ]
 
 ]
 ```
