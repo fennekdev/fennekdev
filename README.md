@@ -13,7 +13,7 @@ Profile:
               [
                 "- Visual physics Sandbox with coustome collision detection",
                 "- Api intigrations into modular "multiserver" Discord bots"
-
+                "- Maschine learing model to detect inconsistent in data"
               ]
 
   currently_learing: ["Maschine Learing","Java","Server Administations(Type 1 Hypervisors,Docker)"]
