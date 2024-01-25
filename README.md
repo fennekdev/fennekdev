@@ -38,6 +38,9 @@ Profile:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+
+  
 </div>
 
 ---
