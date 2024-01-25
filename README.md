@@ -3,12 +3,14 @@ Profile:
 [
   name: fennek
   discord: .fennekku
+  
   fields_of_intress:
               [
                 "Physics", "Maths",
                 "Python","Java",
                 "Tech","Visual physics simulations"
               ]
+
   currently_working_on:
               [
                 "- Visual physics Sandbox with coustome collision detection",
