@@ -3,9 +3,9 @@
 </div>
 ---
 ###🥱: my Profile
-<div align="center">
+<h1 align="center">
   (☞ﾟヮﾟ)☞Hello dear dev´s☜(ﾟヮﾟ☜) 
-</div>
+</h1>
 
 ```yaml
 Profile:
