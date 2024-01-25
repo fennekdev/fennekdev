@@ -1,11 +1,13 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="400"/>
 </div>
----
-###🥱: my Profile
 <h1 align="center">
   (☞ﾟヮﾟ)☞Hello dear dev´s☜(ﾟヮﾟ☜) 
 </h1>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 ```yaml
 Profile:
