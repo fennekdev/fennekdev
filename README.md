@@ -7,7 +7,7 @@
 
 ---
 
-### :: My Profile :
+### My Profile :
 
 ```yaml
 Profile:
