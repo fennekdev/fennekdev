@@ -16,6 +16,8 @@ Profile:
 
               ]
 
+  currently_learing: ["Maschine Learing","Java","Server Administations(Type 1 Hypervisors,Docker)"]
+
 ]
 ```
 Discord: .fennekku
