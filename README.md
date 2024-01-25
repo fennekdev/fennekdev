@@ -1,15 +1,17 @@
 ```yaml
-Profile:[
+Profile:
+[
   name: fennek
   discord: .fennekku
-  fields_of_intress:[
-                    "Physics", "Maths",
-                    "Python","Java",
-                    "Tech","Visual physics simulations"
-                    ]
+  fields_of_intress:
+              [
+                "Physics", "Maths",
+                "Python","Java",
+                "Tech","Visual physics simulations"
+              ]
   currently_working_on
 
-      ]
+]
 ```
 Discord: .fennekku
 
