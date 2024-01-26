@@ -46,7 +46,7 @@ Profile:
 ### :fire: My Stats :
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fennekdev&label=Profile%20views&color=#2596be&style=flat" alt="fennekdev" /> </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fennekdev&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fennekdev&theme=dark&background=141415)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fennekdev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
