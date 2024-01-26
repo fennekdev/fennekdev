@@ -52,9 +52,6 @@ Profile:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fennekdev&show_icons=true&theme=transparent)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fennekdev&show_icons=true&locale=en&background=000000" alt="fennekdev" /></p>
-
-
 
 <!---
 fennekdev/fennekdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
