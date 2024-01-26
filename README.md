@@ -33,11 +33,6 @@ Profile:
 ]
 ```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fennekdev&label=Profile%20views&color=0e75b6&style=flat" alt="fennekdev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fennekdev" alt="fennekdev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 ---
@@ -49,6 +44,12 @@ Profile:
 ---
 
 ### :fire: My Stats :
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fennekdev&label=Profile%20views&color=000000&style=flat" alt="fennekdev" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fennekdev" alt="fennekdev" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fennekdev&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fennekdev&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
