@@ -50,6 +50,15 @@ Profile:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fennekdev&show_icons=true&theme=dark)
 
+---
+
+### :trollface: Memes bevor seeing my commits🙄:
+
+
+
+<div id="header" align="center">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Q4hobX7O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.redd.it/m41loixjno811.jpg" width="400"/>
+</div>
 
 <!---
 fennekdev/fennekdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
