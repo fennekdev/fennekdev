@@ -54,7 +54,7 @@ Profile:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fennekdev&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fennekdev&show_icons=true&locale=en&layout=compact" alt="fennekdev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fennekdev&show_icons=true&locale=en&layout=compact&background=000000" alt="fennekdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fennekdev&show_icons=true&locale=en" alt="fennekdev" /></p>
 
