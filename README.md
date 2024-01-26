@@ -58,6 +58,9 @@ Profile:
 
 <div id="header" align="center">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Q4hobX7O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.redd.it/m41loixjno811.jpg" width="400"/>
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cZAp2h-m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bivaw0mcvv0f5nlotc4l.png" width="400"/>
+
+
 </div>
 
 <!---
