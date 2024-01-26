@@ -22,7 +22,7 @@ Profile:
               ]
   currently_working_on:
               [
-                " - Visual physics Sandbox with coustome collision detection",
+                " - Visual physics Sandbox with self made collision detection",
                 " - Api intigrations into modular "multiserver" Discord bots",
                 " - Maschine learing model to detect inconsistent in data",
                 " - An visual SQL-injection test project(school project)"
