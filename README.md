@@ -25,7 +25,7 @@ Profile:
                 " - Visual physics Sandbox with self made collision detection",
                 " - Api intigrations into modular "multiserver" Discord bots",
                 " - Maschine learing model to detect inconsistent in data",
-                " - An visual SQL-injection test project(school project)"
+                " - An visual SQL-injection test programm(school project)"
               ]
 
   currently_learing: ["Maschine Learing","Java","Server Administations(Type 1 Hypervisors,Docker)"]
