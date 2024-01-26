@@ -63,6 +63,12 @@ Profile:
 
 </div>
 
+<div id="header" align="center">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--OASFHA8B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i4llylo2kcbdrw0375ay.png" width="400"/>
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--jB45qLyj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rho5ghbemr6lamcdqo3q.jpg" width="400"/>
+
+
+</div>
 <!---
 fennekdev/fennekdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
