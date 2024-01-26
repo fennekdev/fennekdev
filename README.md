@@ -58,7 +58,7 @@ Profile:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fennekdev&show_icons=true&locale=en" alt="fennekdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fennekdev&" alt="fennekdev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fennekdev&background=000000" alt="fennekdev" /></p>
 
 
 <!---
