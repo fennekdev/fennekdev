@@ -28,7 +28,10 @@ Profile:
                 " - An visual SQL-injection test programm(school project)"
               ]
 
-  currently_learing: ["Maschine Learing","Java","Server Administations(Type 1 Hypervisors,Docker)"]
+  currently_learing:
+              [
+                "Maschine Learing","Java","Server Administations(Type 1 Hypervisors,Docker)"
+              ]
 
 ]
 
