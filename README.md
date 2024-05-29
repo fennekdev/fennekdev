@@ -12,26 +12,25 @@
 ```yaml
 Profile:
 [
-  name: fennek
-  discord: .fennekku
-  fields_of_intress:
-              [
-                "Physics", "Maths",
-                "Python","Java",
-                "Tech","Visual physics simulations"
-              ]
-  currently_working_on:
-              [
-                " - Visual physics Sandbox with self made collision detection",
-                " - Api intigrations into modular "multiserver" Discord bots",
-                " - Maschine learing model to detect inconsistent in data",
-                " - An visual SQL-injection test programm(school project)"
-              ]
-
-  currently_learing:
-              [
-                "Maschine Learing","Java","Server Administations(Type 1 Hypervisors,Docker)"
-              ]
+    name: fennek
+    discord: .fennekku
+    fields_of_intress:
+      [
+        "Physics", "Maths",
+        "Python","Java",
+        "Tech","Visual physics simulations"
+      ]
+    currently_working_on:
+      [
+        " - Visual physics Sandbox with self made collision detection",
+        " - Api intigrations into modular "multiserver" Discord bots",
+        " - Maschine learing model to detect inconsistent in data",
+        " - An visual SQL-injection test programm(school project)"
+      ]
+    currently_learing:
+      [
+        "Maschine Learing","Java","Server Administations(Type 1 Hypervisors,Docker)"
+      ]
 
 ]
 
