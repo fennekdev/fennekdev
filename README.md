@@ -9,34 +9,33 @@
 
 ### My Profile :
 
-```yaml
-Profile:
-[
-    name: fennek
-    discord: .fennekku
-    fields_of_intress:
-      [
-        "Physics", "Maths",
-        "Python","Java",
-        "Tech","Visual physics simulations"
-      ]
-    currently_working_on:
-      [
-        " - Visual physics Sandbox with self made collision detection",
-        " - Api intigrations into modular "multiserver" Discord bots",
-        " - Maschine learing model to detect inconsistent in data",
-        " - An visual SQL-injection test programm(school project)"
-      ]
-    currently_learing:
-      [
-        "Maschine Learing","Java","Server Administations(Type 1 Hypervisors,Docker)"
-      ]
+```python
+class Profile(fennek):
+  def __init__(self, args*,kwargs**):
+    self.name = "fennek"
+    self.discord = ".fennekku"
+    self.fields_of_intress =  [
+                            "Physics", "Maths",
+                            "Python","Java",
+                            "Tech","Visual physics simulations"
+                              ]
+    def currently_working_on(self):
+      def visual_physics_sandbox():
+        focus = "self developt collision detection"
 
-]
+      def discord_bot():
+        functions = ["complex API intigration","data analysis"]
+        focus = ("multiserver management","modular")
 
+      side_projects = {
+                    "ML_model":"to detect inconsistency in data",
+                    "SQL-Injection testprogramm" : "an approach to visualize the elements of an SQL-Injection attack"
+                      }
+  
+  self.currently_learning = ["Maschine Learing","Cpp","Server administation(Type 1 Hypervisors,Docker)]
+        
+              
 ```
-
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
