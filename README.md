@@ -37,6 +37,27 @@ Profile:
 
 ```
 
+```yaml
+name: fennek
+discord: fennek  # Assuming your username is just "fennek"
+fields_of_interest:  # Corrected capitalization
+  - Physics
+  - Maths
+  - Python
+  - Java
+  - Tech
+  - Visual physics simulations
+currently_working_on:
+  - Visual physics Sandbox with self-made collision detection
+  - API integrations into modular "multiserver" Discord bots
+  - Machine learning model to detect inconsistencies in data
+  - A visual SQL-injection test program (school project)
+currently_learning:
+  - Machine Learning  # Corrected spelling
+  - Java
+  - Server Administrations (Type 1 Hypervisors, Docker)
+
+```
 
 
 ---
