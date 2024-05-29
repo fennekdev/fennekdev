@@ -21,7 +21,7 @@ class Profile(fennek):
                               ]
     def currently_working_on(self):
       def visual_physics_sandbox():
-        focus = "self developt collision detection"
+        focus = "self developed collision detection"
 
       def discord_bot():
         functions = ["complex API intigration","data analysis"]
