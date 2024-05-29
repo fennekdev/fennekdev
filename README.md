@@ -16,7 +16,7 @@ class Profile(fennek):
     self.discord = ".fennekku"
     self.fields_of_intress =  [
                             "Physics", "Maths",
-                            "Python","Java",
+                            "Python","electronics",
                             "Tech","Visual physics simulations"
                               ]
     def currently_working_on(self):
@@ -32,7 +32,7 @@ class Profile(fennek):
                     "SQL-Injection testprogramm" : "an approach to visualize the elements of an SQL-Injection attack"
                       }
   
-  self.currently_learning = ["Maschine Learing","Cpp","Server administation(Type 1 Hypervisors,Docker)]
+  self.currently_learning = ["Maschine Learing","Cpp","electronics/pcb´s","Server administation(Type 1 Hypervisors,Docker)]
         
               
 ```
