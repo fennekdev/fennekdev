@@ -53,23 +53,6 @@ class Profile(fennek):
 
 ---
 
-### :trollface: Memes bevor seeing my commits🙄:
-
-
-
-<div id="header" align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Q4hobX7O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.redd.it/m41loixjno811.jpg" width="400"/>
-    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cZAp2h-m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bivaw0mcvv0f5nlotc4l.png" width="400"/>
-
-
-</div>
-
-<div id="header" align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--OASFHA8B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i4llylo2kcbdrw0375ay.png" width="400"/>
-    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--jB45qLyj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rho5ghbemr6lamcdqo3q.jpg" width="400"/>
-
-
-</div>
 <!---
 fennekdev/fennekdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
